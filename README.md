@@ -20,6 +20,15 @@ A fully parametric Lua script that generates a meshing **involute gear pair with
   <img src="images/profile-shift-comparison.png" width="80%" alt="Profile generated for x = +0.5 and x = -0.5">
 </p>
 
+## Printed result
+
+Printed in PLA on a Bambu Lab printer with the default parameters: both gears, the two pins and the stand fresh off the build plate (left), and the gear pair meshing after assembly (right).
+
+<p align="center">
+  <img src="images/printed-parts-on-bed.jpg" width="48%" alt="Printed gears, pins and stand on the build plate">
+  <img src="images/printed-gear-pair.jpg" width="48%" alt="Printed gear pair meshing">
+</p>
+
 ## Parameters
 
 | Parameter | Default | Meaning |
